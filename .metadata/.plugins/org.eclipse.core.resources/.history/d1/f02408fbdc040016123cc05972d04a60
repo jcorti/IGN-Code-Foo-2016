@@ -1,0 +1,34 @@
+package com.ign.corti;
+
+
+import javax.swing.*;
+
+import java.awt.*;
+
+public class FrameWork extends JFrame {
+
+    public FrameWork()
+    {
+    	JOptionPane.showInternalConfirmDialog(null,
+                "please choose one", "information",
+                JOptionPane.YES_NO_CANCEL_OPTION, JOptionPane.INFORMATION_MESSAGE);
+    	jFrameSetup();
+    }
+    
+    public void jFrameSetup()
+    {
+        setSize(800,800);
+        setVisible(true);
+        setResizable(false);
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    }
+    public void paint(Graphics g)
+    {
+        super.paint(g);
+        g.setColor(Color.WHITE);
+        g.fillRect(0, 0, 800, 800);
+        g.setColor(Color.orange);
+        g.setFont(new Font("Arial", Font.BOLD, 18));
+        g.drawString("Doing graphics with a JFrame!", 60, 200);
+    }
+}

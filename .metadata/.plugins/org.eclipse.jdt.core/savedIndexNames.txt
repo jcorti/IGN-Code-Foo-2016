@@ -1,0 +1,24 @@
+INDEX VERSION 1.127+C:\Users\corti\Desktop\IGN Code Foo 2016\.metadata\.plugins\org.eclipse.jdt.core
+919737581.index
+2692970885.index
+1269277382.index
+2164123280.index
+3383392487.index
+2585328351.index
+2265617865.index
+1575028064.index
+2474304018.index
+4210772659.index
+249459504.index
+1492968368.index
+1910228820.index
+3449116704.index
+4221048499.index
+882139543.index
+52205867.index
+521605994.index
+2204447375.index
+1063230161.index
+3951094714.index
+2445747412.index
+1755913921.index
