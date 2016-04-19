@@ -1,9 +1,0 @@
-package com.ign.corti;
-
-public class AlienPRun {
-
-	public static void main(String[] args)
-	{
-		FrameWork test =new FrameWork();
-	}
-}
